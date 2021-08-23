@@ -14,7 +14,7 @@ bool is_prime(long long int the_checker);
 
 int main()
 {
-    long long int my_number = 13195;
+    long long int my_number = 600851475143;
 
     long long int largest_prime_factor = 0;
     
